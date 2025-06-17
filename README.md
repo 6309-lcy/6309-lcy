@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6309-lcy
-- 👀 I’m interested in machine learning, wanna be a quant
-- 🌱 I’m currently learning n8n, docker
+- 👀 I’m interested in machine learning
+
 
 
 <!---
