@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @6309-lcy
 - 👀 I’m interested in machine learning
-
+- ✨ Currently working on private repo for CTGoodjob Future Leader Award 2025 project
+- ✨ I will upload more project I did later in July
+- ✨ [Here is my Linkedin Profile](www.linkedin.com/in/cheuk-yin-lam-374b83337)
 
 
 <!---
