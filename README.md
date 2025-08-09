@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @6309-lcy
+- 👋 Hi, I’m Anson
 - 👀 I’m interested in machine learning
-- ✨ I will upload more project I did later in August
 - ✨ [Here is my Linkedin Profile](https://linkedin.com/in/cheuk-yin-lam-374b83337)
 
 
