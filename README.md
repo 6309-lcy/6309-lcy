@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Anson
-- 👀 I’m interested in machine learning
-- [Here is my personal webpage](https://6309-lcy/personal_webpage/)
-- ✨ [Here is my Linkedin Profile](https://linkedin.com/in/cheuk-yin-lam-374b83337)
+- Hi, I’m Anson
+- I’m interested in machine learning
+- [Here is my personal webpage](https://6309-lcy.github.io/Personal_Webpage/)
+- [Here is my Linkedin Profile](https://linkedin.com/in/cheuk-yin-lam-374b83337)
 
 
 <!---
