@@ -2,7 +2,7 @@
 - I’m interested in machine learning
 - [Here is my personal webpage](https://6309-lcy.github.io/Personal_Webpage/)
 - [Here is my Linkedin Profile](https://linkedin.com/in/cheuk-yin-lam-374b83337)
-- I build front end for all my projects, you can see the link in the readme.md
+- I deployed most of my projects, you can see the link in the readme.md
 - 
 
 <!---
