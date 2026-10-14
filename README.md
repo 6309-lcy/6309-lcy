@@ -1,7 +1,7 @@
 - Hi, I’m Anson
 - Interested in ML, DL, NN
 - Amante del café
-
+- I m gonna start 3 data science projects in Dec 2026, which covers ML, DL and RL and their applications in Finance
 
 <!---
 6309-lcy/6309-lcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
