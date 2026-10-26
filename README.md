@@ -1,14 +1,7 @@
-- Hi, I’m Anson
-- Interested in ML, DL, NN
-- Amante del café
-- I m gonna start 3 data science projects in Dec 2026, which covers ML, DL and RL and their applications in Finance
+<p align="center">
+  <img src="assets/pixel-me.gif" width="1120" alt="My pixel-art animation centered on a warm cream background matching the banner." />
+</p>
 
-<!---
-6309-lcy/6309-lcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- [Here is my personal webpage](https://6309-lcy.github.io/Personal_Webpage/)
-- [Here is my Linkedin Profile](https://linkedin.com/in/cheuk-yin-lam-374b83337)
-- I deployed most of my projects, you can see the link in the readme.md
-- I am looking for internship opportunities or research projects in Deep learning and Machine Learning
-- I am studying about CNN and medical image processing.
---->
+<p align="center">
+  <img src="assets/banner.gif" width="1120" alt="Hi, I'm Anson. A warm cream, brown, and amber pixel-art banner with animated neural signals and coffee steam." />
+</p>
